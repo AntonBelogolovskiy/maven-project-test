@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="508a75b0-7bd5-4c44-97f8-e4925507ed49" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="508a75b0-7bd5-4c44-97f8-e4925507ed49" name="Changes" comment="add y=1">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Anton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Anton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,11 +20,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="Anton_new" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2ECfHHq0wFqBl5q1HDhAIXMg6hu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -33,16 +45,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
@@ -67,8 +76,36 @@
       <updated>1662104401724</updated>
       <workItem from="1662104403990" duration="289000" />
       <workItem from="1662105303655" duration="798000" />
-      <workItem from="1662107084458" duration="2453000" />
     </task>
+    <task id="LOCAL-00001" summary="Working code">
+      <created>1662130362286</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662130362286</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Working code">
+      <created>1662130449614</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662130449614</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Revert &quot;Revert &quot;Anton make Class Anton&quot;&quot;&#10;&#10;This reverts commit 8e57c2cf">
+      <created>1662130489272</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662130489272</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add y=1">
+      <created>1662131006304</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662131006304</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,5 +121,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Working code" />
+    <MESSAGE value="Revert &quot;Revert &quot;Anton make Class Anton&quot;&quot;&#10;&#10;This reverts commit 8e57c2cf" />
+    <MESSAGE value="add y=1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add y=1" />
   </component>
 </project>
