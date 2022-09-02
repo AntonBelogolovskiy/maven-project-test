@@ -1,0 +1,18 @@
+Index: src/main/java/Test.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class Test {\r\n    public static void main(String[] args) {\r\n        System.out.println(\"Hello world!\");\r\n\r\n\r\n        //// test\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1251
+===================================================================
+diff --git a/src/main/java/Test.java b/src/main/java/Test.java
+--- a/src/main/java/Test.java	(revision c35a603046bf9cc85046a8a4428949b83bc65076)
++++ b/src/main/java/Test.java	(date 1662129555505)
+@@ -2,7 +2,6 @@
+     public static void main(String[] args) {
+         System.out.println("Hello world!");
+ 
+-
+         //// test
+     }
+ }
